@@ -2,10 +2,27 @@
   "domain": "shodhganga.inflibnet.ac.in",
   "index": "CC-MAIN-2022-21",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "in,ac,inflibnet,shodhganga)/",
+        "timestamp": "20220522161055",
+        "url": "https://shodhganga.inflibnet.ac.in/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "UX72LQGLYFRBRUWKX7GC3AFF3D7B7QPR",
+        "length": "21878",
+        "offset": "586809110",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662545875.39/warc/CC-MAIN-20220522160113-20220522190113-00193.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      }
+    ],
+    "count": 1,
+    "present": true,
+    "years": [
+      "2022"
+    ],
+    "error": null
   }
 }

@@ -2,10 +2,139 @@
   "domain": "vtechworks.lib.vt.edu",
   "index": "CC-MAIN-2022-21",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/",
+        "timestamp": "20220527004216",
+        "url": "https://vtechworks.lib.vt.edu/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "SZBHN5R7KNLNREBYOLPMXK5K72HPIHLN",
+        "length": "7699",
+        "offset": "679866754",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662627464.60/warc/CC-MAIN-20220526224902-20220527014902-00376.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/100088/foods-09-01306.pdf?isallowed=y&sequence=1",
+        "timestamp": "20220522210514",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/100088/foods-09-01306.pdf?sequence=1&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "CQ4J2NUHPPMPL66M5B5PNCEQHNNJQRTW",
+        "length": "1032353",
+        "offset": "669013575",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662546071.13/warc/CC-MAIN-20220522190453-20220522220453-00578.warc.gz",
+        "truncated": "length"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/100124/peerj-9805.pdf?isallowed=y&sequence=1",
+        "timestamp": "20220519184352",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/100124/peerj-9805.pdf?sequence=1&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "OIRPDL622OJFKV7CPIYUTUJJS2A6OZ5O",
+        "length": "400230",
+        "offset": "677153434",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662529658.48/warc/CC-MAIN-20220519172853-20220519202853-00072.warc.gz"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/100168/journal.pone.0237070.pdf?isallowed=y&sequence=1",
+        "timestamp": "20220522204648",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/100168/journal.pone.0237070.pdf?sequence=1&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "5LBEII6EA7O73MA65YTZPKIC7EOYG2C2",
+        "length": "956255",
+        "offset": "673564454",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662546071.13/warc/CC-MAIN-20220522190453-20220522220453-00655.warc.gz",
+        "truncated": "length"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/100281/barrie2020_article_higgsinflationvacuumstabilitya.pdf?isallowed=y&sequence=1",
+        "timestamp": "20220519191205",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/100281/Barrie2020_Article_HiggsInflationVacuumStabilityA.pdf?sequence=1&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "R35LZTI3WSX2S2WGNCI2ZSDKXSPRPBEU",
+        "length": "636374",
+        "offset": "696534138",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662529658.48/warc/CC-MAIN-20220519172853-20220519202853-00073.warc.gz"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/10054/2fonseca.pdf?isallowed=y&sequence=1",
+        "timestamp": "20220527125003",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/10054/2fonseca.pdf?sequence=1&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "N3JOBUG6LW7AMTYAMTECFGZVKWVF6RAT",
+        "length": "929479",
+        "offset": "656247562",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662647086.91/warc/CC-MAIN-20220527112418-20220527142418-00712.warc.gz"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/100929/piis2405844020312792.pdf?isallowed=y&sequence=1",
+        "timestamp": "20220519185707",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/100929/PIIS2405844020312792.pdf?sequence=1&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "T6GDFXWOR4JKRMQL4K3OVFCYV7CNWPX2",
+        "length": "355734",
+        "offset": "695834108",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662529658.48/warc/CC-MAIN-20220519172853-20220519202853-00322.warc.gz"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/10098/achaubal_thesis_etd.pdf?isallowed=y&sequence=1",
+        "timestamp": "20220527130334",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/10098/achaubal_thesis_etd.pdf?sequence=1&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "5SQO6ICSDBRIHC7CQ7EIIIGBH3RDAXRW",
+        "length": "584938",
+        "offset": "665815707",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662647086.91/warc/CC-MAIN-20220527112418-20220527142418-00143.warc.gz"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/10103/thesis.pdf?isallowed=y&sequence=1",
+        "timestamp": "20220527123402",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/10103/thesis.pdf?sequence=1&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "3ZZSINXWDCQYXMD63PHBGGCKBYYZTXVT",
+        "length": "900355",
+        "offset": "674486370",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662647086.91/warc/CC-MAIN-20220527112418-20220527142418-00676.warc.gz",
+        "truncated": "length"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/101956/food%20digest%20summer%202020.pdf?isallowed=y&sequence=1",
+        "timestamp": "20220523091858",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/101956/Food%20Digest%20Summer%202020.pdf?sequence=1&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "Z74XTUSECDN5WBM5IKUDB4HAX7LBYLGT",
+        "length": "1004742",
+        "offset": "672352028",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662556725.76/warc/CC-MAIN-20220523071517-20220523101517-00571.warc.gz",
+        "truncated": "length"
+      }
+    ],
+    "count": 10,
+    "present": true,
+    "years": [
+      "2022"
+    ],
+    "error": null
   }
 }

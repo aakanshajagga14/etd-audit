@@ -2,10 +2,125 @@
   "domain": "dart-europe.org",
   "index": "CC-MAIN-2023-14",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "org,dart-europe)/",
+        "timestamp": "20230330145705",
+        "url": "https://www.dart-europe.org/",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "5QJM24YQLNZF2CZBM6HCM4Y7W3PWJF5D",
+        "length": "1016",
+        "offset": "817961725",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296949331.26/warc/CC-MAIN-20230330132508-20230330162508-00112.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,dart-europe)/basic-results.php?kw[]=gewalt&page=2&sort=title",
+        "timestamp": "20230331151820",
+        "url": "https://www.dart-europe.org/basic-results.php?kw%5B%5D=Gewalt&sort=title&page=2",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "O76VQ27PEJ7FFSICCN7VF5ZHKH5A37DQ",
+        "length": "8059",
+        "offset": "796307301",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296949644.27/warc/CC-MAIN-20230331144941-20230331174941-00124.warc.gz",
+        "languages": "deu,eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,dart-europe)/basic-search.php",
+        "timestamp": "20230331150654",
+        "url": "https://www.dart-europe.org/basic-search.php",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "MPSJJSCVYJLURCKJ2D22ZYWQQCLU4WQ6",
+        "length": "4529",
+        "offset": "813772133",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296949644.27/warc/CC-MAIN-20230331144941-20230331174941-00161.warc.gz",
+        "languages": "eng,fra",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,dart-europe)/full.php?id=1866017",
+        "timestamp": "20230331165650",
+        "url": "https://www.dart-europe.org/full.php?id=1866017",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "CGYU6XRO4P2GB7NTMQLAH4OREBYV64VL",
+        "length": "4071",
+        "offset": "813273144",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296949644.27/warc/CC-MAIN-20230331144941-20230331174941-00547.warc.gz",
+        "languages": "eng,deu",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,dart-europe)/full.php?id=2123653",
+        "timestamp": "20230331150233",
+        "url": "https://www.dart-europe.org/full.php?id=2123653",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "7ELC2VCT5TQNG43P3UOJ72GFN52TTH4L",
+        "length": "3992",
+        "offset": "813170941",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296949644.27/warc/CC-MAIN-20230331144941-20230331174941-00200.warc.gz",
+        "languages": "eng,dan",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,dart-europe)/full.php?id=2379231",
+        "timestamp": "20230331155108",
+        "url": "https://www.dart-europe.org/full.php?id=2379231",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "6DSQ3WCELSUTEH4KPTAF7QXMBMEERV53",
+        "length": "4050",
+        "offset": "842915249",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296949644.27/warc/CC-MAIN-20230331144941-20230331174941-00545.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,dart-europe)/full.php?id=454781",
+        "timestamp": "20230331153224",
+        "url": "https://www.dart-europe.org/full.php?id=454781",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "AVYJ2DXDVNDMUGDE7E3TOEKH3DVSDLY6",
+        "length": "5927",
+        "offset": "817114963",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296949644.27/warc/CC-MAIN-20230331144941-20230331174941-00617.warc.gz",
+        "languages": "eng,est",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,dart-europe)/full.php?id=705615",
+        "timestamp": "20230331161620",
+        "url": "https://www.dart-europe.org/full.php?id=705615",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "X2GZZQFWQMHD4PHBN3YLUFYKJHWNZIEO",
+        "length": "5788",
+        "offset": "812963749",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296949644.27/warc/CC-MAIN-20230331144941-20230331174941-00682.warc.gz",
+        "languages": "eng,fra",
+        "encoding": "UTF-8"
+      }
+    ],
+    "count": 8,
+    "present": true,
+    "years": [
+      "2023"
+    ],
+    "error": null
   }
 }

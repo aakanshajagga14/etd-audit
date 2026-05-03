@@ -1,16 +1,16 @@
 institution,domain,robots_fetched,blocks_all,blocks_ccbot,allows_ccbot,interpretation,error
-IISc Bangalore,etd.iisc.ac.in,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
-Shodhganga,shodhganga.inflibnet.ac.in,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
-IIT Delhi,etd.iitd.ac.in,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
-IIT Bombay,etd.iitb.ac.in,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
-IIT Madras,etd.iitm.ac.in,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
-MIT DSpace,dspace.mit.edu,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
-Virginia Tech VTechWorks,vtechworks.lib.vt.edu,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
-UCLA eScholarship,escholarship.org,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
-Univ. of Michigan Deep Blue,deepblue.lib.umich.edu,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
-Australian National Univ.,openresearch-repository.anu.edu.au,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
-EThOS,ethos.bl.uk,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
-DART Europe,dart-europe.org,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
-NDLTD Union Catalog,union.ndltd.org,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
-OATD,oatd.org,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
-ProQuest Dissertations,proquest.com/pqdtglobal,False,False,False,False,UNKNOWN — could not fetch (dry_run),dry_run
+IISc Bangalore,etd.iisc.ac.in,False,False,False,False,UNKNOWN — could not fetch (HTTP 502),HTTP 502
+Shodhganga,shodhganga.inflibnet.ac.in,True,True,True,False,PROTECTED — CCBot explicitly blocked,
+IIT Delhi,etd.iitd.ac.in,False,False,False,False,"UNKNOWN — could not fetch (HTTPSConnectionPool(host='etd.iitd.ac.in', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000002B51950C470>: Failed to resolve 'etd.iitd.ac.in' ([Errno 11001] getaddrinfo failed)"")))","HTTPSConnectionPool(host='etd.iitd.ac.in', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000002B51950C470>: Failed to resolve 'etd.iitd.ac.in' ([Errno 11001] getaddrinfo failed)""))"
+IIT Bombay,etd.iitb.ac.in,False,False,False,False,"UNKNOWN — could not fetch (HTTPSConnectionPool(host='etd.iitb.ac.in', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000002B51950CEF0>: Failed to resolve 'etd.iitb.ac.in' ([Errno 11001] getaddrinfo failed)"")))","HTTPSConnectionPool(host='etd.iitb.ac.in', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000002B51950CEF0>: Failed to resolve 'etd.iitb.ac.in' ([Errno 11001] getaddrinfo failed)""))"
+IIT Madras,etd.iitm.ac.in,False,False,False,False,"UNKNOWN — could not fetch (HTTPSConnectionPool(host='etd.iitm.ac.in', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000002B5178D3620>: Failed to resolve 'etd.iitm.ac.in' ([Errno 11001] getaddrinfo failed)"")))","HTTPSConnectionPool(host='etd.iitm.ac.in', port=443): Max retries exceeded with url: /robots.txt (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000002B5178D3620>: Failed to resolve 'etd.iitm.ac.in' ([Errno 11001] getaddrinfo failed)""))"
+MIT DSpace,dspace.mit.edu,True,False,False,False,UNPROTECTED — no CCBot exclusion found,
+Virginia Tech VTechWorks,vtechworks.lib.vt.edu,True,False,False,False,UNPROTECTED — no CCBot exclusion found,
+UCLA eScholarship,escholarship.org,False,False,False,False,UNKNOWN — could not fetch (HTTP 202),HTTP 202
+Univ. of Michigan Deep Blue,deepblue.lib.umich.edu,False,False,False,False,UNKNOWN — could not fetch (HTTP 403),HTTP 403
+Australian National Univ.,openresearch-repository.anu.edu.au,True,False,False,False,UNPROTECTED — no CCBot exclusion found,
+EThOS,ethos.bl.uk,True,False,False,False,UNPROTECTED — no CCBot exclusion found,
+DART Europe,dart-europe.org,True,False,False,False,UNPROTECTED — no CCBot exclusion found,
+NDLTD Union Catalog,union.ndltd.org,False,False,False,False,UNKNOWN — could not fetch (HTTP 503),HTTP 503
+OATD,oatd.org,False,False,False,False,UNKNOWN — could not fetch (HTTP 403),HTTP 403
+ProQuest Dissertations,proquest.com/pqdtglobal,True,False,False,False,UNPROTECTED — no CCBot exclusion found,

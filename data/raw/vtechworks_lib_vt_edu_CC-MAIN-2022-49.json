@@ -2,10 +2,78 @@
   "domain": "vtechworks.lib.vt.edu",
   "index": "CC-MAIN-2022-49",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/100022/screening%20of%20natural%20products%20and%20approved%20oncology%20drug%20libraries%20for%20activity%20against%20clostridioides%20difficile.pdf?isallowed=y&sequence=2",
+        "timestamp": "20221126151824",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/100022/Screening%20of%20Natural%20Products%20and%20Approved%20Oncology%20Drug%20Libraries%20for%20Activity%20against%20Clostridioides%20difficile.pdf?sequence=2&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "YQIO4B4VHWTVJXH7LO6VZEN52CVSDVRK",
+        "length": "865676",
+        "offset": "647123948",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446708010.98/warc/CC-MAIN-20221126144448-20221126174448-00002.warc.gz",
+        "truncated": "length"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/100028/repurposing%20auranofin%20as%20an%20intestinal%20decolonizing%20agent%20for%20vancomycin-resistant%20enterococci.pdf?isallowed=y&sequence=2",
+        "timestamp": "20221126170457",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/100028/Repurposing%20auranofin%20as%20an%20intestinal%20decolonizing%20agent%20for%20vancomycin-resistant%20enterococci.pdf?sequence=2&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "HSBKUQ7NPTBRNAK5BAG5LE7BPQOU4SWE",
+        "length": "813559",
+        "offset": "663422317",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446708010.98/warc/CC-MAIN-20221126144448-20221126174448-00765.warc.gz",
+        "truncated": "length"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/100034/in%20vitro%20antibacterial%20activity%20of%20rhodanine%20derivatives%20against%20pathogenic%20clinical%20isolates.pdf?isallowed=y&sequence=2",
+        "timestamp": "20221126153550",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/100034/In%20Vitro%20Antibacterial%20Activity%20of%20Rhodanine%20Derivatives%20against%20Pathogenic%20Clinical%20Isolates.pdf?sequence=2&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "WTBSGK4Y67HBLBHHWMV2EXEW54DOJOE3",
+        "length": "412969",
+        "offset": "654989210",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446708010.98/warc/CC-MAIN-20221126144448-20221126174448-00824.warc.gz",
+        "truncated": "length"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/100036/identification%20of%20a%20phenylthiazole%20small%20molecule%20with%20dual%20antifungal%20and%20antibiofilm%20activity%20against%20candida%20albicans%20and.pdf?isallowed=y&sequence=2",
+        "timestamp": "20221126162035",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/100036/Identification%20of%20a%20Phenylthiazole%20Small%20Molecule%20with%20Dual%20Antifungal%20and%20Antibiofilm%20Activity%20Against%20Candida%20albicans%20and.pdf?sequence=2&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "HK6U45QKFQL7VMERJVPMJIMHMGRVJHVQ",
+        "length": "895433",
+        "offset": "643264920",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446708010.98/warc/CC-MAIN-20221126144448-20221126174448-00070.warc.gz",
+        "truncated": "length"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/100037/evaluation%20of%20short%20synthetic%20antimicrobial%20peptides%20for%20treatment%20of%20drug-resistant%20and%20intracellular%20staphylococcus%20aureus.pdf?isallowed=y&sequence=2",
+        "timestamp": "20221126151737",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/100037/Evaluation%20of%20short%20synthetic%20antimicrobial%20peptides%20for%20treatment%20of%20drug-resistant%20and%20intracellular%20Staphylococcus%20aureus.pdf?sequence=2&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "NUX2SYKWN7RA3H7NCV4S7B3LXD2FZLKL",
+        "length": "765653",
+        "offset": "636142909",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446708010.98/warc/CC-MAIN-20221126144448-20221126174448-00836.warc.gz",
+        "truncated": "length"
+      }
+    ],
+    "count": 5,
+    "present": true,
+    "years": [
+      "2022"
+    ],
+    "error": null
   }
 }

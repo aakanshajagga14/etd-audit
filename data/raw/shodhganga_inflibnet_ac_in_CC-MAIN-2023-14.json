@@ -2,10 +2,85 @@
   "domain": "shodhganga.inflibnet.ac.in",
   "index": "CC-MAIN-2023-14",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "in,ac,inflibnet,shodhganga)/robots.txt",
+        "timestamp": "20230320165013",
+        "url": "https://shodhganga.inflibnet.ac.in/robots.txt",
+        "mime": "text/plain",
+        "mime-detected": "text/x-robots",
+        "status": "200",
+        "digest": "RL56CCPIJ43VHCZC55NRKI3NKTMTAN25",
+        "length": "6329",
+        "offset": "999352",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296943484.34/robotstxt/CC-MAIN-20230320144934-20230320174934-00460.warc.gz"
+      },
+      {
+        "urlkey": "in,ac,inflibnet,shodhganga)/robots.txt",
+        "timestamp": "20230320180818",
+        "url": "https://shodhganga.inflibnet.ac.in/robots.txt",
+        "mime": "text/plain",
+        "mime-detected": "text/x-robots",
+        "status": "200",
+        "digest": "RL56CCPIJ43VHCZC55NRKI3NKTMTAN25",
+        "length": "6333",
+        "offset": "999154",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296943555.25/robotstxt/CC-MAIN-20230320175948-20230320205948-00460.warc.gz"
+      },
+      {
+        "urlkey": "in,ac,inflibnet,shodhganga)/robots.txt",
+        "timestamp": "20230321033812",
+        "url": "https://shodhganga.inflibnet.ac.in/robots.txt",
+        "mime": "text/plain",
+        "mime-detected": "text/x-robots",
+        "status": "200",
+        "digest": "RL56CCPIJ43VHCZC55NRKI3NKTMTAN25",
+        "length": "6336",
+        "offset": "1029702",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296943625.81/robotstxt/CC-MAIN-20230321033306-20230321063306-00460.warc.gz"
+      },
+      {
+        "urlkey": "in,ac,inflibnet,shodhganga)/robots.txt",
+        "timestamp": "20230321164712",
+        "url": "https://shodhganga.inflibnet.ac.in/robots.txt",
+        "mime": "text/plain",
+        "mime-detected": "text/x-robots",
+        "status": "200",
+        "digest": "RL56CCPIJ43VHCZC55NRKI3NKTMTAN25",
+        "length": "6336",
+        "offset": "1152229",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296943704.21/robotstxt/CC-MAIN-20230321162614-20230321192614-00460.warc.gz"
+      },
+      {
+        "urlkey": "in,ac,inflibnet,shodhganga)/robots.txt",
+        "timestamp": "20230322083520",
+        "url": "https://shodhganga.inflibnet.ac.in/robots.txt",
+        "mime": "text/plain",
+        "mime-detected": "text/x-robots",
+        "status": "200",
+        "digest": "RL56CCPIJ43VHCZC55NRKI3NKTMTAN25",
+        "length": "6335",
+        "offset": "979335",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296943809.22/robotstxt/CC-MAIN-20230322082826-20230322112826-00460.warc.gz"
+      },
+      {
+        "urlkey": "in,ac,inflibnet,shodhganga)/robots.txt",
+        "timestamp": "20230323021741",
+        "url": "https://shodhganga.inflibnet.ac.in/robots.txt",
+        "mime": "text/plain",
+        "mime-detected": "text/x-robots",
+        "status": "200",
+        "digest": "RL56CCPIJ43VHCZC55NRKI3NKTMTAN25",
+        "length": "6338",
+        "offset": "1003249",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296944606.5/robotstxt/CC-MAIN-20230323003026-20230323033026-00460.warc.gz"
+      }
+    ],
+    "count": 6,
+    "present": true,
+    "years": [
+      "2023"
+    ],
+    "error": null
   }
 }

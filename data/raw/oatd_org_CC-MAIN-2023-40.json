@@ -2,10 +2,83 @@
   "domain": "oatd.org",
   "index": "CC-MAIN-2023-40",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "org,oatd)/",
+        "timestamp": "20230922105137",
+        "url": "https://oatd.org/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "YGM5QZAKP3QN6YRCFMXZVM2TKU7ZDTVL",
+        "length": "15212",
+        "offset": "487602493",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233506399.24/warc/CC-MAIN-20230922102329-20230922132329-00187.warc.gz",
+        "languages": "eng,fin,ind",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,oatd)/",
+        "timestamp": "20230924080738",
+        "url": "https://oatd.org/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "SWYYCEXM4B5YOEAKE7E2TGU6IFCPNUFF",
+        "length": "14877",
+        "offset": "486977845",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233506623.27/warc/CC-MAIN-20230924055210-20230924085210-00187.warc.gz",
+        "languages": "eng,fin",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,oatd)/",
+        "timestamp": "20230930095047",
+        "url": "https://oatd.org/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "YUCY7YRDRJTMO4CCDARPDZY66WEMTEK6",
+        "length": "16286",
+        "offset": "453959607",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233510671.0/warc/CC-MAIN-20230930082033-20230930112033-00187.warc.gz",
+        "languages": "eng,por,slv",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,oatd)/",
+        "timestamp": "20231002021310",
+        "url": "https://oatd.org/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "YUOH5UWANLP3BK54GLTNWCPX6PIZMH7I",
+        "length": "15802",
+        "offset": "456223128",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233510942.97/warc/CC-MAIN-20231002001302-20231002031302-00187.warc.gz",
+        "languages": "eng,por,deu",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,oatd)/?fbclid=iwar3sy1jnijts3iadsdzwshzkh4laxfwejc1k506lnpu-ng4zgmt17yrlmnw",
+        "timestamp": "20230924140525",
+        "url": "https://www.oatd.org/?fbclid=IwAR3Sy1jNIJts3iadsdzWShZkH4LAXfwejC1k506lnpU-nG4ZgMt17yrlMNw",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "Z7DVZNTQKAHTMPL56DD27L4CVIERCRB2",
+        "length": "15314",
+        "offset": "1000375939",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233506646.94/warc/CC-MAIN-20230924123403-20230924153403-00115.warc.gz",
+        "languages": "eng,fin,ind",
+        "encoding": "UTF-8"
+      }
+    ],
+    "count": 5,
+    "present": true,
+    "years": [
+      "2023"
+    ],
+    "error": null
   }
 }

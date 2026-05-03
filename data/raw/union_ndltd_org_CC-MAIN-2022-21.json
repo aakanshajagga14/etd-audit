@@ -2,10 +2,123 @@
   "domain": "union.ndltd.org",
   "index": "CC-MAIN-2022-21",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "org,ndltd,union)/oai-pmh",
+        "timestamp": "20220523074459",
+        "url": "http://union.ndltd.org/OAI-PMH/",
+        "mime": "text/xml",
+        "mime-detected": "application/xml",
+        "status": "200",
+        "digest": "GOKGZQ62ISQHX5NCTUJ2ST7375BD7OHH",
+        "length": "761",
+        "offset": "61835735",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662556725.76/warc/CC-MAIN-20220523071517-20220523101517-00765.warc.gz"
+      },
+      {
+        "urlkey": "org,ndltd,union)/portal",
+        "timestamp": "20220523075528",
+        "url": "http://union.ndltd.org/portal/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "YJA6CROO5NQTWIES5HXJ7ACZNNWRMXNT",
+        "length": "4904",
+        "offset": "65967854",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662556725.76/warc/CC-MAIN-20220523071517-20220523101517-00192.warc.gz",
+        "languages": "eng,cat,fra",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,ndltd,union)/rss",
+        "timestamp": "20220523085209",
+        "url": "http://union.ndltd.org/RSS/",
+        "mime": "text/xml",
+        "mime-detected": "application/rss+xml",
+        "status": "200",
+        "digest": "RZFGXPIWH6DGLTMSUFLTTT7JSASBYP7K",
+        "length": "2038",
+        "offset": "62267266",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662556725.76/warc/CC-MAIN-20220523071517-20220523101517-00608.warc.gz"
+      },
+      {
+        "urlkey": "org,ndltd,union)/rss/vt_gsexam:11159",
+        "timestamp": "20220523092842",
+        "url": "http://union.ndltd.org/RSS/vt_gsexam:11159",
+        "mime": "text/xml",
+        "mime-detected": "application/rss+xml",
+        "status": "200",
+        "digest": "RZFGXPIWH6DGLTMSUFLTTT7JSASBYP7K",
+        "length": "2044",
+        "offset": "54116069",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662556725.76/warc/CC-MAIN-20220523071517-20220523101517-00167.warc.gz"
+      },
+      {
+        "urlkey": "org,ndltd,union)/rss/vt_gsexam:32923",
+        "timestamp": "20220523081236",
+        "url": "http://union.ndltd.org/RSS/vt_gsexam:32923",
+        "mime": "text/xml",
+        "mime-detected": "application/rss+xml",
+        "status": "200",
+        "digest": "RZFGXPIWH6DGLTMSUFLTTT7JSASBYP7K",
+        "length": "2043",
+        "offset": "65108921",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662556725.76/warc/CC-MAIN-20220523071517-20220523101517-00589.warc.gz"
+      },
+      {
+        "urlkey": "org,ndltd,union)/rss/vt_gsexam:34037",
+        "timestamp": "20220523083727",
+        "url": "http://union.ndltd.org/RSS/vt_gsexam:34037",
+        "mime": "text/xml",
+        "mime-detected": "application/rss+xml",
+        "status": "200",
+        "digest": "RZFGXPIWH6DGLTMSUFLTTT7JSASBYP7K",
+        "length": "2041",
+        "offset": "57205092",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662556725.76/warc/CC-MAIN-20220523071517-20220523101517-00357.warc.gz"
+      },
+      {
+        "urlkey": "org,ndltd,union)/rss/vt_gsexam:34404",
+        "timestamp": "20220523074246",
+        "url": "http://union.ndltd.org/RSS/vt_gsexam:34404",
+        "mime": "text/xml",
+        "mime-detected": "application/rss+xml",
+        "status": "200",
+        "digest": "RZFGXPIWH6DGLTMSUFLTTT7JSASBYP7K",
+        "length": "2043",
+        "offset": "64230948",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662556725.76/warc/CC-MAIN-20220523071517-20220523101517-00105.warc.gz"
+      },
+      {
+        "urlkey": "org,ndltd,union)/rss/vt_gsexam:34918",
+        "timestamp": "20220523083630",
+        "url": "http://union.ndltd.org/RSS/vt_gsexam:34918",
+        "mime": "text/xml",
+        "mime-detected": "application/rss+xml",
+        "status": "200",
+        "digest": "RZFGXPIWH6DGLTMSUFLTTT7JSASBYP7K",
+        "length": "2043",
+        "offset": "62794123",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662556725.76/warc/CC-MAIN-20220523071517-20220523101517-00145.warc.gz"
+      },
+      {
+        "urlkey": "org,ndltd,union)/summary",
+        "timestamp": "20220523073959",
+        "url": "http://union.ndltd.org/summary/",
+        "mime": "text/xml",
+        "mime-detected": "application/xml",
+        "status": "200",
+        "digest": "DVSSFMIXQGBX3VEQU7CBUIDG2KXVXXMY",
+        "length": "7720",
+        "offset": "62743725",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662556725.76/warc/CC-MAIN-20220523071517-20220523101517-00492.warc.gz"
+      }
+    ],
+    "count": 9,
+    "present": true,
+    "years": [
+      "2022"
+    ],
+    "error": null
   }
 }

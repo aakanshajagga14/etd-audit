@@ -2,10 +2,41 @@
   "domain": "proquest.com/pqdtglobal",
   "index": "CC-MAIN-2023-14",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "com,proquest)/pqdtglobal/dissertations/fromdatabaseslayer?accountid=14643",
+        "timestamp": "20230323104109",
+        "url": "https://www.proquest.com/pqdtglobal/dissertations/fromDatabasesLayer?accountid=14643",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "A7DKJXY4OJWUTMZPQRSO6A4BCNZGTTBO",
+        "length": "8983",
+        "offset": "1055595564",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296945144.17/warc/CC-MAIN-20230323100829-20230323130829-00363.warc.gz",
+        "languages": "eng,zho",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "com,proquest)/pqdtglobal/dissertations/fromdatabaseslayer?accountid=172344",
+        "timestamp": "20230327063847",
+        "url": "https://www.proquest.com/pqdtglobal/dissertations/fromDatabasesLayer?accountid=172344",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "CUVY6MINBF254FF6TPFBVN5IMZIHPWJ2",
+        "length": "8978",
+        "offset": "1054050640",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296948609.41/warc/CC-MAIN-20230327060940-20230327090940-00782.warc.gz",
+        "languages": "eng,zho",
+        "encoding": "UTF-8"
+      }
+    ],
+    "count": 2,
+    "present": true,
+    "years": [
+      "2023"
+    ],
+    "error": null
   }
 }

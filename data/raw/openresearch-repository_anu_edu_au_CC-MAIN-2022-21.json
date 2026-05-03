@@ -2,10 +2,135 @@
   "domain": "openresearch-repository.anu.edu.au",
   "index": "CC-MAIN-2022-21",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "au,edu,anu,openresearch-repository)/",
+        "timestamp": "20220521174928",
+        "url": "https://openresearch-repository.anu.edu.au/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "PCFJQTDZSJZ2RYSMVXDQS756E6ATK6ZB",
+        "length": "6597",
+        "offset": "506871788",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662540268.46/warc/CC-MAIN-20220521174536-20220521204536-00625.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "au,edu,anu,openresearch-repository)/",
+        "timestamp": "20220528024206",
+        "url": "https://openresearch-repository.anu.edu.au/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "RVGER66IDRIF5VXL6H5M3LQTQPBGJCDG",
+        "length": "6664",
+        "offset": "495837162",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652663011588.83/warc/CC-MAIN-20220528000300-20220528030300-00625.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "au,edu,anu,openresearch-repository)/advanced-search",
+        "timestamp": "20220528150526",
+        "url": "https://openresearch-repository.anu.edu.au/advanced-search",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "HCVEK4JGPCNB7DMDWYPCEJX6TJJNMCR7",
+        "length": "7506",
+        "offset": "498012670",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652663016853.88/warc/CC-MAIN-20220528123744-20220528153744-00194.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "au,edu,anu,openresearch-repository)/advanced-search?etal=0&order=desc&query=&rpp=10&sort_by=score&start=10",
+        "timestamp": "20220525225547",
+        "url": "https://openresearch-repository.anu.edu.au/advanced-search?query=&sort_by=score&order=desc&rpp=10&etal=0&start=10",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "UEZ4EC576E6EDXY3BFQVW7OFBYTCR7JF",
+        "length": "7515",
+        "offset": "507279977",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662594414.79/warc/CC-MAIN-20220525213545-20220526003545-00784.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "au,edu,anu,openresearch-repository)/advanced-search?etal=0&order=desc&query=&rpp=10&sort_by=score&start=20",
+        "timestamp": "20220525230405",
+        "url": "https://openresearch-repository.anu.edu.au/advanced-search?query=&sort_by=score&order=desc&rpp=10&etal=0&start=20",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "LIAU7VE474L7L5RHEY4E6VW5OVABJTV2",
+        "length": "7496",
+        "offset": "491927185",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662594414.79/warc/CC-MAIN-20220525213545-20220526003545-00015.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "au,edu,anu,openresearch-repository)/advanced-search?etal=0&order=desc&query=&rpp=10&sort_by=score&start=30",
+        "timestamp": "20220528141226",
+        "url": "https://openresearch-repository.anu.edu.au/advanced-search?query=&sort_by=score&order=desc&rpp=10&etal=0&start=30",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "DDPQSHQYUY7QUH6IIS6WNCO2X5IFEW77",
+        "length": "7406",
+        "offset": "502700601",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652663016853.88/warc/CC-MAIN-20220528123744-20220528153744-00046.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "au,edu,anu,openresearch-repository)/bitstream/10440/1097/1/tait_incidence2010.pdf",
+        "timestamp": "20220516152752",
+        "url": "https://openresearch-repository.anu.edu.au/bitstream/10440/1097/1/Tait_Incidence2010.pdf",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "GC36XM3ZEXYKA3OCJRZO6GKPST35BFEZ",
+        "length": "278708",
+        "offset": "528745327",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662510138.6/warc/CC-MAIN-20220516140911-20220516170911-00701.warc.gz"
+      },
+      {
+        "urlkey": "au,edu,anu,openresearch-repository)/bitstream/1885/101226/1/harding%20thesis%202016.pdf",
+        "timestamp": "20220517090356",
+        "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/101226/1/Harding%20Thesis%202016.pdf",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "J6QDHDDTXGJNRN4GDKFT7BVIQ2LWE3SB",
+        "length": "972342",
+        "offset": "540053811",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662517018.29/warc/CC-MAIN-20220517063528-20220517093528-00417.warc.gz",
+        "truncated": "length"
+      },
+      {
+        "urlkey": "au,edu,anu,openresearch-repository)/bitstream/1885/101511/1/olahthesis%202016.pdf",
+        "timestamp": "20220520214312",
+        "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/101511/1/OlahThesis%202016.pdf",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "N2RHQDLX6ORGAV2ARJADMJTPKJ3SUDFE",
+        "length": "947725",
+        "offset": "498241651",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662534669.47/warc/CC-MAIN-20220520191810-20220520221810-00040.warc.gz",
+        "truncated": "length"
+      }
+    ],
+    "count": 9,
+    "present": true,
+    "years": [
+      "2022"
+    ],
+    "error": null
   }
 }

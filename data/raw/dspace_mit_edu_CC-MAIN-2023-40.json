@@ -2,10 +2,27 @@
   "domain": "dspace.mit.edu",
   "index": "CC-MAIN-2023-40",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "edu,mit,dspace)/",
+        "timestamp": "20230925161148",
+        "url": "http://dspace.mit.edu/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "IBHIC5FNRVKGXYYQMNXWLQYL2C5QDR25",
+        "length": "6176",
+        "offset": "13663889",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233509023.57/warc/CC-MAIN-20230925151539-20230925181539-00302.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      }
+    ],
+    "count": 1,
+    "present": true,
+    "years": [
+      "2023"
+    ],
+    "error": null
   }
 }

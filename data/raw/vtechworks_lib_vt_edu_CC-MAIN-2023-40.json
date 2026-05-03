@@ -2,10 +2,131 @@
   "domain": "vtechworks.lib.vt.edu",
   "index": "CC-MAIN-2023-40",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/",
+        "timestamp": "20230922075845",
+        "url": "https://vtechworks.lib.vt.edu/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "QUBI6CS3AZJMBKTYIE64AM2QEHAZ2L4B",
+        "length": "7171",
+        "offset": "686726063",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233506339.10/warc/CC-MAIN-20230922070214-20230922100214-00076.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/",
+        "timestamp": "20230930232424",
+        "url": "https://vtechworks.lib.vt.edu/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "WIE2T2FZ64BOBZ5WRWSSSWFMRL3VF7FV",
+        "length": "7242",
+        "offset": "658825642",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233510730.6/warc/CC-MAIN-20230930213821-20231001003821-00076.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/100047/antibacterial%20efficacy%20of%20core-shell%20nanostructures%20encapsulating%20gentamicin%20against%20an%20in%20vivo%20intracellular%20salmonella%20mod.pdf?isallowed=y&sequence=2",
+        "timestamp": "20230927180305",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/100047/Antibacterial%20efficacy%20of%20core-shell%20nanostructures%20encapsulating%20gentamicin%20against%20an%20in%20vivo%20intracellular%20Salmonella%20mod.pdf?sequence=2&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "CLOCJTKIJVM7LOUHVY4TZITGXTZ6SLI6",
+        "length": "957721",
+        "offset": "658190084",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233510319.87/warc/CC-MAIN-20230927171156-20230927201156-00635.warc.gz",
+        "truncated": "length"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/102846/10217559.pdf?isallowed=y&sequence=1",
+        "timestamp": "20230927175149",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/102846/10217559.pdf?sequence=1&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "TO23GT2KYBAUT7U3BBITOYDLMX5I7YZR",
+        "length": "864998",
+        "offset": "667052399",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233510319.87/warc/CC-MAIN-20230927171156-20230927201156-00186.warc.gz",
+        "truncated": "length"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/103244/life%20before%20the%20gnd.pdf?isallowed=y&sequence=1",
+        "timestamp": "20230927180348",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/103244/Life%20Before%20the%20GND.pdf?sequence=1&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "USY5JXCOF2SIJUX4FSZ7656IQ62MM2M3",
+        "length": "850765",
+        "offset": "660172689",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233510319.87/warc/CC-MAIN-20230927171156-20230927201156-00321.warc.gz",
+        "truncated": "length"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/103247/mcfayden_tc_d_2021.pdf",
+        "timestamp": "20230927193958",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/103247/McFayden_TC_D_2021.pdf",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "UKZVLJI6ULDSA4H4B5WRWMJ4GGSMALVP",
+        "length": "988029",
+        "offset": "664085812",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233510319.87/warc/CC-MAIN-20230927171156-20230927201156-00010.warc.gz",
+        "truncated": "length"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/10329/tx153.m15_1827.pdf?isallowed=y&sequence=1",
+        "timestamp": "20230927175545",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/10329/TX153.M15_1827.pdf?sequence=1&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "NKB64H34INNUYL5JMLNWUMWMWJWMWB63",
+        "length": "943263",
+        "offset": "652293373",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233510319.87/warc/CC-MAIN-20230927171156-20230927201156-00117.warc.gz",
+        "truncated": "length"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/104021/brabble_jm_t_2021.pdf?isallowed=y&sequence=1",
+        "timestamp": "20230927175016",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/104021/Brabble_JM_T_2021.pdf?sequence=1&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "Z3GPPMN6VV2OCZVUYI3TI63J43PD7MFT",
+        "length": "359845",
+        "offset": "654829449",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233510319.87/warc/CC-MAIN-20230927171156-20230927201156-00140.warc.gz"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/105408/neuroscience%20for%20pre-clinical%20students.epub?isallowed=y&sequence=15",
+        "timestamp": "20231002185339",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/105408/Neuroscience%20for%20Pre-Clinical%20Students.epub?sequence=15&isAllowed=y",
+        "mime": "application/epub+zip",
+        "mime-detected": "application/epub+zip",
+        "status": "200",
+        "digest": "PDJ55DUUAEPZAKIUTYLA7N4WKXFGZZ2H",
+        "length": "1047184",
+        "offset": "638074318",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233511002.91/warc/CC-MAIN-20231002164819-20231002194819-00618.warc.gz",
+        "truncated": "length"
+      }
+    ],
+    "count": 9,
+    "present": true,
+    "years": [
+      "2023"
+    ],
+    "error": null
   }
 }

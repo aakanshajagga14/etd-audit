@@ -2,10 +2,69 @@
   "domain": "ethos.bl.uk",
   "index": "CC-MAIN-2022-21",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "uk,bl,ethos)/orderdetails.do?did=48&uin=uk.bl.ethos.580157",
+        "timestamp": "20220523135608",
+        "url": "https://ethos.bl.uk/OrderDetails.do?did=48&uin=uk.bl.ethos.580157",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "UGKZD5D5HJA75A7EJCOW7UMQQ5ECIVDR",
+        "length": "8097",
+        "offset": "288559511",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662558030.43/warc/CC-MAIN-20220523132100-20220523162100-00474.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "uk,bl,ethos)/orderdetails.do?did=57&uin=uk.bl.ethos.548594",
+        "timestamp": "20220525012442",
+        "url": "https://ethos.bl.uk/OrderDetails.do?did=57&uin=uk.bl.ethos.548594",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "KMHPYXQECDWYD5FIDKT3VXCI6KVIRTKG",
+        "length": "6990",
+        "offset": "293177391",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662577757.82/warc/CC-MAIN-20220524233716-20220525023716-00141.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "uk,bl,ethos)/orderdetails.do?uin=uk.bl.ethos.232810",
+        "timestamp": "20220523102749",
+        "url": "https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.232810",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "IMFEHBPUZYNYTQASG7YUXKVMBCOYGJKH",
+        "length": "6983",
+        "offset": "302851842",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662558015.52/warc/CC-MAIN-20220523101705-20220523131705-00502.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "uk,bl,ethos)/orderdetails.do?uin=uk.bl.ethos.232827",
+        "timestamp": "20220518183837",
+        "url": "https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.232827",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "PQAEW2S73U7GSEM7HWCV7XML3A2YHBFT",
+        "length": "7845",
+        "offset": "299431887",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662522309.14/warc/CC-MAIN-20220518183254-20220518213254-00540.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      }
+    ],
+    "count": 4,
+    "present": true,
+    "years": [
+      "2022"
+    ],
+    "error": null
   }
 }

@@ -2,10 +2,41 @@
   "domain": "ethos.bl.uk",
   "index": "CC-MAIN-2022-49",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "uk,bl,ethos)/home.do",
+        "timestamp": "20221205044307",
+        "url": "https://ethos.bl.uk/Home.do",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "GC6INOLIXXFZRAUTZ5QE55QYDQ5O7EB7",
+        "length": "6374",
+        "offset": "271324550",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446711003.56/warc/CC-MAIN-20221205032447-20221205062447-00804.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "uk,bl,ethos)/home.do",
+        "timestamp": "20221207133106",
+        "url": "https://ethos.bl.uk/Home.do",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "KHCCYJLWAL2NK4BWVC3RPJULB5QXBWSV",
+        "length": "6377",
+        "offset": "242938022",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446711162.52/warc/CC-MAIN-20221207121241-20221207151241-00804.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      }
+    ],
+    "count": 2,
+    "present": true,
+    "years": [
+      "2022"
+    ],
+    "error": null
   }
 }

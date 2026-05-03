@@ -2,10 +2,65 @@
   "domain": "shodhganga.inflibnet.ac.in",
   "index": "CC-MAIN-2024-10",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "in,ac,inflibnet,shodhganga)/handle/10603/24617",
+        "timestamp": "20240229082852",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/24617",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "QYZXKXRHHU5LKCLEOSNMFFZLEDLQCPPW",
+        "length": "8446",
+        "offset": "520606842",
+        "filename": "crawl-data/CC-MAIN-2024-10/segments/1707947474795.48/warc/CC-MAIN-20240229071243-20240229101243-00899.warc.gz",
+        "languages": "eng,hin",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "in,ac,inflibnet,shodhganga)/handle/10603/374391",
+        "timestamp": "20240229075931",
+        "url": "https://shodhganga.inflibnet.ac.in/handle/10603/374391",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "OVODHVW4MWX5IHF6SLOWJOEYKXB3SSQU",
+        "length": "8264",
+        "offset": "522208216",
+        "filename": "crawl-data/CC-MAIN-2024-10/segments/1707947474795.48/warc/CC-MAIN-20240229071243-20240229101243-00794.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "in,ac,inflibnet,shodhganga)/robots.txt",
+        "timestamp": "20240223043127",
+        "url": "https://shodhganga.inflibnet.ac.in/robots.txt",
+        "mime": "text/plain",
+        "mime-detected": "text/x-robots",
+        "status": "200",
+        "digest": "V75CQWS66BEPJ3T3XTOXFPYEVHKP65KK",
+        "length": "6815",
+        "offset": "965934",
+        "filename": "crawl-data/CC-MAIN-2024-10/segments/1707947474360.86/robotstxt/CC-MAIN-20240223021632-20240223051632-00160.warc.gz"
+      },
+      {
+        "urlkey": "in,ac,inflibnet,shodhganga)/robots.txt",
+        "timestamp": "20240224045042",
+        "url": "https://shodhganga.inflibnet.ac.in/robots.txt",
+        "mime": "text/plain",
+        "mime-detected": "text/x-robots",
+        "status": "200",
+        "digest": "V75CQWS66BEPJ3T3XTOXFPYEVHKP65KK",
+        "length": "6813",
+        "offset": "1317633",
+        "filename": "crawl-data/CC-MAIN-2024-10/segments/1707947474523.8/robotstxt/CC-MAIN-20240224044749-20240224074749-00160.warc.gz"
+      }
+    ],
+    "count": 4,
+    "present": true,
+    "years": [
+      "2024"
+    ],
+    "error": null
   }
 }

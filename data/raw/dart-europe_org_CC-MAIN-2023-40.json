@@ -2,10 +2,125 @@
   "domain": "dart-europe.org",
   "index": "CC-MAIN-2023-40",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "org,dart-europe)/",
+        "timestamp": "20230923101847",
+        "url": "https://www.dart-europe.org/",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "5QJM24YQLNZF2CZBM6HCM4Y7W3PWJF5D",
+        "length": "1034",
+        "offset": "795482191",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233506480.7/warc/CC-MAIN-20230923094750-20230923124750-00212.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,dart-europe)/",
+        "timestamp": "20230925201612",
+        "url": "https://www.dart-europe.org/",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "5QJM24YQLNZF2CZBM6HCM4Y7W3PWJF5D",
+        "length": "1014",
+        "offset": "815403763",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233510085.26/warc/CC-MAIN-20230925183615-20230925213615-00212.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,dart-europe)/basic-results.php?f=y&fa=a-e&fl=deutsch&kw[]=herrscher",
+        "timestamp": "20230924162234",
+        "url": "https://www.dart-europe.org/basic-results.php?kw%5B%5D=Herrscher&f=y&fa=A-E&fl=Deutsch",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "OXRU5TLKIMAGK57JPKBN34NJAHKH2URH",
+        "length": "4692",
+        "offset": "813652596",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233506658.2/warc/CC-MAIN-20230924155422-20230924185422-00157.warc.gz",
+        "languages": "eng,deu",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,dart-europe)/basic-results.php?f=y&fa=f-j&fcou=switzerland&kw[]=kleidung",
+        "timestamp": "20230924162740",
+        "url": "https://www.dart-europe.org/basic-results.php?kw%5B%5D=Kleidung&f=y&fcou=Switzerland&fa=F-J",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "BKJZD3R4KDJHXRZFIOJ4M7ZL6LHWONVK",
+        "length": "4374",
+        "offset": "791678963",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233506658.2/warc/CC-MAIN-20230924155422-20230924185422-00796.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,dart-europe)/basic-results.php?f=y&fa=f-j&fy=2018&kw[]=grenze",
+        "timestamp": "20230924163417",
+        "url": "https://www.dart-europe.org/basic-results.php?kw%5B%5D=Grenze&f=y&fy=2018&fa=F-J",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "N6I7G323D2VMSW2NPVAZSX3DQOTVHK2W",
+        "length": "4324",
+        "offset": "815281306",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233506658.2/warc/CC-MAIN-20230924155422-20230924185422-00706.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,dart-europe)/basic-results.php?f=y&fa=f-j&kw[]=kleidung&sort=auth",
+        "timestamp": "20230924174905",
+        "url": "https://www.dart-europe.org/basic-results.php?kw%5B%5D=Kleidung&f=y&fa=F-J&sort=auth",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "ERWOF3XJ52Y2QIXT7JFN4C62SXZYRDDP",
+        "length": "5257",
+        "offset": "792757345",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233506658.2/warc/CC-MAIN-20230924155422-20230924185422-00804.warc.gz",
+        "languages": "eng,deu",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,dart-europe)/basic-results.php?f=y&fa=k-o&fy=2021&kw[]=darknet",
+        "timestamp": "20230924180727",
+        "url": "https://www.dart-europe.org/basic-results.php?kw%5B%5D=darknet&f=y&fa=K-O&fy=2021",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "HCJPNTVZRKVLZWXIOLSHHJDBLR4K6IDS",
+        "length": "4244",
+        "offset": "809761663",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233506658.2/warc/CC-MAIN-20230924155422-20230924185422-00328.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,dart-europe)/basic-results.php?f=y&fa=p-t&fy=2022&kw[]=kleidung",
+        "timestamp": "20230924172040",
+        "url": "https://www.dart-europe.org/basic-results.php?kw%5B%5D=Kleidung&f=y&fa=P-T&fy=2022",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "WYXFWXY53QLWUTYKF22GIAD3LGUX6NBL",
+        "length": "4410",
+        "offset": "806641174",
+        "filename": "crawl-data/CC-MAIN-2023-40/segments/1695233506658.2/warc/CC-MAIN-20230924155422-20230924185422-00117.warc.gz",
+        "languages": "eng,deu",
+        "encoding": "UTF-8"
+      }
+    ],
+    "count": 8,
+    "present": true,
+    "years": [
+      "2023"
+    ],
+    "error": null
   }
 }

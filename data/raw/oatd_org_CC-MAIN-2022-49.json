@@ -2,10 +2,97 @@
   "domain": "oatd.org",
   "index": "CC-MAIN-2022-49",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "org,oatd)/",
+        "timestamp": "20221127194915",
+        "url": "https://oatd.org/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "H2K7BT4YDLTBP3FGHODR7PNQVZB4627Y",
+        "length": "16881",
+        "offset": "476660888",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446710417.25/warc/CC-MAIN-20221127173917-20221127203917-00807.warc.gz",
+        "languages": "eng,jpn,slv",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,oatd)/",
+        "timestamp": "20221129050641",
+        "url": "https://oatd.org/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "JQ7JIW7Q2RIRDEA6AT2242SPSX3OZ5WZ",
+        "length": "15698",
+        "offset": "481005612",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446710685.0/warc/CC-MAIN-20221129031912-20221129061912-00807.warc.gz",
+        "languages": "eng,spa",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,oatd)/",
+        "timestamp": "20221207133420",
+        "url": "https://oatd.org/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "SRQ45TXDSP3G6764SW4Z5DBLIFEKSJQU",
+        "length": "16725",
+        "offset": "422048275",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446711162.52/warc/CC-MAIN-20221207121241-20221207151241-00807.warc.gz",
+        "languages": "eng,slv,deu",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,oatd)/",
+        "timestamp": "20221208101834",
+        "url": "https://oatd.org/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "4PVZBHPV25OU3D4WU2TMWZSCE2HGSICD",
+        "length": "14976",
+        "offset": "454506342",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446711286.17/warc/CC-MAIN-20221208082315-20221208112315-00807.warc.gz",
+        "languages": "eng,fin,spa",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,oatd)/",
+        "timestamp": "20221209135517",
+        "url": "https://www.oatd.org/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "DS2X4NWLIYIE3ILWCVN6QOPLY6ZXBGLA",
+        "length": "14736",
+        "offset": "954990924",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446711396.19/warc/CC-MAIN-20221209112528-20221209142528-00736.warc.gz",
+        "languages": "eng,fin",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,oatd)/faq.html",
+        "timestamp": "20221127175640",
+        "url": "https://oatd.org/faq.html",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "VB4CK2HIA7KOM3HYGWE5ZFGSOQ5KCWXF",
+        "length": "5521",
+        "offset": "486880101",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446710417.25/warc/CC-MAIN-20221127173917-20221127203917-00794.warc.gz",
+        "languages": "eng",
+        "encoding": "ISO-8859-1"
+      }
+    ],
+    "count": 6,
+    "present": true,
+    "years": [
+      "2022"
+    ],
+    "error": null
   }
 }

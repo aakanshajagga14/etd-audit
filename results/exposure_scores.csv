@@ -1,16 +1,16 @@
 institution,domain,region,cc_indexes_found,year_range,total_url_hits,cc_present,manifest_mentions,exposure_score
-IISc Bangalore,etd.iisc.ac.in,Global South,0,—,0,False,3,3
-MIT DSpace,dspace.mit.edu,Global North,0,—,0,False,3,3
-Virginia Tech VTechWorks,vtechworks.lib.vt.edu,Global North,0,—,0,False,3,3
-Shodhganga,shodhganga.inflibnet.ac.in,Global South,0,—,0,False,2,2
-NDLTD Union Catalog,union.ndltd.org,Global,0,—,0,False,2,2
-Australian National Univ.,openresearch-repository.anu.edu.au,Global North,0,—,0,False,2,2
-EThOS,ethos.bl.uk,Global North,0,—,0,False,2,2
-UCLA eScholarship,escholarship.org,Global North,0,—,0,False,1,1
-DART Europe,dart-europe.org,Global North,0,—,0,False,1,1
-OATD,oatd.org,Global,0,—,0,False,1,1
+Virginia Tech VTechWorks,vtechworks.lib.vt.edu,Global North,5,2022–2024,34,True,3,13
+Australian National Univ.,openresearch-repository.anu.edu.au,Global North,5,2022–2024,46,True,2,12
+UCLA eScholarship,escholarship.org,Global North,5,2022–2024,45,True,1,11
+IISc Bangalore,etd.iisc.ac.in,Global South,4,2022–2024,4,True,3,11
+ProQuest Dissertations,proquest.com/pqdtglobal,Commercial,5,2022–2024,37,True,0,10
+Shodhganga,shodhganga.inflibnet.ac.in,Global South,4,2022–2024,18,True,2,10
+EThOS,ethos.bl.uk,Global North,4,2022–2023,16,True,2,10
+NDLTD Union Catalog,union.ndltd.org,Global,4,2022–2024,21,True,2,10
+DART Europe,dart-europe.org,Global North,4,2022–2023,32,True,1,9
+OATD,oatd.org,Global,4,2022–2024,25,True,1,9
+MIT DSpace,dspace.mit.edu,Global North,2,2022–2023,2,True,3,7
 Univ. of Michigan Deep Blue,deepblue.lib.umich.edu,Global North,0,—,0,False,1,1
+IIT Delhi,etd.iitd.ac.in,Global South,0,—,0,False,0,0
 IIT Bombay,etd.iitb.ac.in,Global South,0,—,0,False,0,0
 IIT Madras,etd.iitm.ac.in,Global South,0,—,0,False,0,0
-IIT Delhi,etd.iitd.ac.in,Global South,0,—,0,False,0,0
-ProQuest Dissertations,proquest.com/pqdtglobal,Commercial,0,—,0,False,0,0

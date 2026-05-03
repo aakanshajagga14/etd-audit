@@ -2,10 +2,41 @@
   "domain": "vtechworks.lib.vt.edu",
   "index": "CC-MAIN-2024-10",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/",
+        "timestamp": "20240223211308",
+        "url": "https://vtechworks.lib.vt.edu/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "4USSDGDSHAG5CGQTTJLUG3JMBUGKAOXI",
+        "length": "93598",
+        "offset": "630035559",
+        "filename": "crawl-data/CC-MAIN-2024-10/segments/1707947474445.77/warc/CC-MAIN-20240223185223-20240223215223-00076.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/10919/24359/1/12-1878.1.pdf",
+        "timestamp": "20240304085450",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/10919/24359/1/12-1878.1.pdf",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "XFHIIUIVPXYPPGJCBDFN52I42QNDSPEU",
+        "length": "62123",
+        "offset": "577223579",
+        "filename": "crawl-data/CC-MAIN-2024-10/segments/1707947476432.11/warc/CC-MAIN-20240304065639-20240304095639-00744.warc.gz",
+        "languages": "eng,hin",
+        "encoding": "UTF-8"
+      }
+    ],
+    "count": 2,
+    "present": true,
+    "years": [
+      "2024"
+    ],
+    "error": null
   }
 }

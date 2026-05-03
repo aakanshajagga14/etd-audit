@@ -2,10 +2,111 @@
   "domain": "proquest.com/pqdtglobal",
   "index": "CC-MAIN-2022-21",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "com,proquest)/pqdtglobal/athenslogin;jsessionid=06ea01a0183bce228c3a89bae411b36f.i-0bbea88695022dc9d",
+        "timestamp": "20220519163955",
+        "url": "https://www.proquest.com/pqdtglobal/athenslogin;jsessionid=06EA01A0183BCE228C3A89BAE411B36F.i-0bbea88695022dc9d",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "RZ4JFBOSIVOKARE3KPPVQBCLMMJXGA57",
+        "length": "59635",
+        "offset": "1117522785",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662529538.2/warc/CC-MAIN-20220519141152-20220519171152-00521.warc.gz",
+        "languages": "eng,deu,tur",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "com,proquest)/pqdtglobal/athenslogin;jsessionid=253e298dff1e773df9ab3345886b1816.i-0c2fc3474548b82b2",
+        "timestamp": "20220522084540",
+        "url": "https://www.proquest.com/pqdtglobal/athenslogin;jsessionid=253E298DFF1E773DF9AB3345886B1816.i-0c2fc3474548b82b2",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "O5CON7HW36KVKRDIOQBS56OWEABVRKFM",
+        "length": "59732",
+        "offset": "1109461744",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662545090.44/warc/CC-MAIN-20220522063657-20220522093657-00265.warc.gz",
+        "languages": "eng,deu,tur",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "com,proquest)/pqdtglobal/athenslogin;jsessionid=786db06ae8099c273a9906acb37862ba.i-09529377680ed23fe",
+        "timestamp": "20220524130352",
+        "url": "https://www.proquest.com/pqdtglobal/athenslogin;jsessionid=786DB06AE8099C273A9906ACB37862BA.i-09529377680ed23fe",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "ZFYOLPM5NHUOLYY3DI4D24UPEX24BABC",
+        "length": "59771",
+        "offset": "1091703828",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662572800.59/warc/CC-MAIN-20220524110236-20220524140236-00677.warc.gz",
+        "languages": "eng,deu,tur",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "com,proquest)/pqdtglobal/athenslogin;jsessionid=9ffc40b1fc7810167e68a8550ed741c9.i-0b8e1882676ce0d0e",
+        "timestamp": "20220520120435",
+        "url": "https://www.proquest.com/pqdtglobal/athenslogin;jsessionid=9FFC40B1FC7810167E68A8550ED741C9.i-0b8e1882676ce0d0e",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "XCI44SABMKJM3LIVLNVOVHDY75UHWXRU",
+        "length": "59651",
+        "offset": "1101004263",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662531779.10/warc/CC-MAIN-20220520093441-20220520123441-00123.warc.gz",
+        "languages": "eng,deu,tur",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "com,proquest)/pqdtglobal/autologin",
+        "timestamp": "20220521212155",
+        "url": "https://www.proquest.com/pqdtglobal/autologin",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "FYRUSLUBCE7HFFWCLZMMFCJSWLJA5WUF",
+        "length": "8062",
+        "offset": "1121346274",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662541747.38/warc/CC-MAIN-20220521205757-20220521235757-00351.warc.gz",
+        "languages": "eng,zho",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "com,proquest)/pqdtglobal/dissertation",
+        "timestamp": "20220518094751",
+        "url": "https://www.proquest.com/pqdtglobal/dissertation",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "WUB7XWWFZHFEPJSYHA4I5AQLERIZEZDE",
+        "length": "8061",
+        "offset": "1117276421",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652662521883.7/warc/CC-MAIN-20220518083841-20220518113841-00526.warc.gz",
+        "languages": "eng,zho",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "com,proquest)/pqdtglobal/dissertations/fromdatabaseslayer?accountid=151027",
+        "timestamp": "20220529032359",
+        "url": "https://www.proquest.com/pqdtglobal/dissertations/fromDatabasesLayer?accountid=151027",
+        "mime": "text/html",
+        "mime-detected": "application/xhtml+xml",
+        "status": "200",
+        "digest": "GCQV7OVNNIUGLN5CMHOO26V6M5EZYWVL",
+        "length": "8080",
+        "offset": "1115788969",
+        "filename": "crawl-data/CC-MAIN-2022-21/segments/1652663035797.93/warc/CC-MAIN-20220529011010-20220529041010-00207.warc.gz",
+        "languages": "eng,zho",
+        "encoding": "UTF-8"
+      }
+    ],
+    "count": 7,
+    "present": true,
+    "years": [
+      "2022"
+    ],
+    "error": null
   }
 }

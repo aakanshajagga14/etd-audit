@@ -2,10 +2,27 @@
   "domain": "etd.iisc.ac.in",
   "index": "CC-MAIN-2023-14",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "in,ac,iisc,etd)/",
+        "timestamp": "20230322085456",
+        "url": "https://etd.iisc.ac.in/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "EDA472DCLVRIFMNUSX6P5YBJOO2LTQQK",
+        "length": "7461",
+        "offset": "288810288",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296943809.22/warc/CC-MAIN-20230322082826-20230322112826-00339.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      }
+    ],
+    "count": 1,
+    "present": true,
+    "years": [
+      "2023"
+    ],
+    "error": null
   }
 }

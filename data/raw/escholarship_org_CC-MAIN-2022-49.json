@@ -2,10 +2,144 @@
   "domain": "escholarship.org",
   "index": "CC-MAIN-2022-49",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "org,escholarship)/",
+        "timestamp": "20221128011852",
+        "url": "https://escholarship.org",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "GLGZITYZ2V6LSERIBQIL7CFXOEUP6FIY",
+        "length": "5058",
+        "offset": "270561050",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446710462.59/warc/CC-MAIN-20221128002256-20221128032256-00723.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,escholarship)/",
+        "timestamp": "20221128110354",
+        "url": "https://escholarship.org/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "SYTJ7DOXAITLDUUSDIZP3VMIAJXLCRZW",
+        "length": "5063",
+        "offset": "301819275",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446710503.24/warc/CC-MAIN-20221128102824-20221128132824-00540.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,escholarship)/",
+        "timestamp": "20221206173826",
+        "url": "https://escholarship.org/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "KPNDIO3TOFQ3N57K3Z37X3MSPUO256G7",
+        "length": "5057",
+        "offset": "277880004",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446711111.35/warc/CC-MAIN-20221206161009-20221206191009-00540.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,escholarship)/abouteschol",
+        "timestamp": "20221128012448",
+        "url": "https://escholarship.org/aboutEschol",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "UQFA6L5XOY27RD3HCNTJL24WU5O6JATD",
+        "length": "5437",
+        "offset": "276294574",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446710462.59/warc/CC-MAIN-20221128002256-20221128032256-00273.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,escholarship)/comingsoon",
+        "timestamp": "20221209025510",
+        "url": "https://escholarship.org/comingSoon",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "CL6MA73V2CQCPCLXAI6NPHEASC4VQYF2",
+        "length": "5029",
+        "offset": "290745613",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446711376.47/warc/CC-MAIN-20221209011720-20221209041720-00744.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "org,escholarship)/content/qt01184844/qt01184844.pdf",
+        "timestamp": "20221206134759",
+        "url": "https://escholarship.org/content/qt01184844/qt01184844.pdf",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "RTZZI7CMJ5KL66RTJWDJWNQTSMWCI7NF",
+        "length": "776250",
+        "offset": "276001438",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446711108.34/warc/CC-MAIN-20221206124909-20221206154909-00241.warc.gz"
+      },
+      {
+        "urlkey": "org,escholarship)/content/qt01t1w86c/qt01t1w86c.pdf",
+        "timestamp": "20221208110553",
+        "url": "https://escholarship.org/content/qt01t1w86c/qt01t1w86c.pdf",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "NHED3OKQ42USF6FBAELYEVK2T76VNRT5",
+        "length": "1027657",
+        "offset": "289112096",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446711286.17/warc/CC-MAIN-20221208082315-20221208112315-00737.warc.gz",
+        "truncated": "length"
+      },
+      {
+        "urlkey": "org,escholarship)/content/qt0713n15c/qt0713n15c.pdf",
+        "timestamp": "20221206142323",
+        "url": "https://escholarship.org/content/qt0713n15c/qt0713n15c.pdf",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "NWSFMX3SHKFEWSAZBBNZOSABF6S2OVTQ",
+        "length": "648252",
+        "offset": "270058266",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446711108.34/warc/CC-MAIN-20221206124909-20221206154909-00401.warc.gz"
+      },
+      {
+        "urlkey": "org,escholarship)/content/qt07g545kr/qt07g545kr.pdf",
+        "timestamp": "20221203054151",
+        "url": "https://escholarship.org/content/qt07g545kr/qt07g545kr.pdf",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "POKVA6EW7KDHKNDGAW4DYJ2C74NG24M7",
+        "length": "394440",
+        "offset": "276752690",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446710924.83/warc/CC-MAIN-20221203043643-20221203073643-00769.warc.gz"
+      },
+      {
+        "urlkey": "org,escholarship)/content/qt09b496t7/qt09b496t7.pdf?t=qwi2lq",
+        "timestamp": "20221204123055",
+        "url": "https://escholarship.org/content/qt09b496t7/qt09b496t7.pdf?t=qwi2lq",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "UGRB4TZNQBR3JLCVCJCHH3P6KOJQWD6P",
+        "length": "63768",
+        "offset": "266174960",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446710972.37/warc/CC-MAIN-20221204104311-20221204134311-00667.warc.gz"
+      }
+    ],
+    "count": 10,
+    "present": true,
+    "years": [
+      "2022"
+    ],
+    "error": null
   }
 }

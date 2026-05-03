@@ -2,10 +2,107 @@
   "domain": "openresearch-repository.anu.edu.au",
   "index": "CC-MAIN-2022-49",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "au,edu,anu,openresearch-repository)/",
+        "timestamp": "20221204093623",
+        "url": "https://openresearch-repository.anu.edu.au/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "UDW6XZWQKPS5NWHWMCYR4FDYUMTIHNFR",
+        "length": "6552",
+        "offset": "477343749",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446710968.29/warc/CC-MAIN-20221204072040-20221204102040-00465.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "au,edu,anu,openresearch-repository)/advanced-search?etal=0&order=desc&query=&rpp=10&sort_by=score&start=255950",
+        "timestamp": "20221206210049",
+        "url": "https://openresearch-repository.anu.edu.au/advanced-search?query=&sort_by=score&order=desc&rpp=10&etal=0&start=255950",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "NF52HNOXLZBQOLWEHOSFI3TQVV6MJQDO",
+        "length": "7627",
+        "offset": "486472776",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446711114.3/warc/CC-MAIN-20221206192947-20221206222947-00211.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "au,edu,anu,openresearch-repository)/advanced-search?location=1885/1&query=james%20prest",
+        "timestamp": "20221126192348",
+        "url": "https://openresearch-repository.anu.edu.au/advanced-search?location=1885/1&query=James%2520Prest",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "AGT5YCB5AVPI3W5C3PBKGQDNVBUDPUIC",
+        "length": "8341",
+        "offset": "493482124",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446708046.99/warc/CC-MAIN-20221126180719-20221126210719-00008.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "au,edu,anu,openresearch-repository)/advanced-search?location=1885/9048&query=archaeology",
+        "timestamp": "20221127181003",
+        "url": "https://openresearch-repository.anu.edu.au/advanced-search?location=1885%2F9048&query=archaeology",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "4MB4S76RKVMM3RND3KJQRJAGN2QOFCXT",
+        "length": "8695",
+        "offset": "484854737",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446710417.25/warc/CC-MAIN-20221127173917-20221127203917-00740.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "au,edu,anu,openresearch-repository)/advanced-search?query=paul%20maharg",
+        "timestamp": "20221130232558",
+        "url": "https://openresearch-repository.anu.edu.au/advanced-search?query=paul%20maharg",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "TD655L4I5CEUEKGVCQH4CN2AM2NACA32",
+        "length": "7095",
+        "offset": "464724376",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446710777.20/warc/CC-MAIN-20221130225142-20221201015142-00107.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "au,edu,anu,openresearch-repository)/bitstream/10440/743/1/dryzek_revolutions2006.pdf",
+        "timestamp": "20221205021438",
+        "url": "https://openresearch-repository.anu.edu.au/bitstream/10440/743/1/Dryzek_Revolutions2006.pdf",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "YBU4D2IZVXCJUDINWDSNL6E3TWQNHJA2",
+        "length": "69451",
+        "offset": "466065795",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446711001.28/warc/CC-MAIN-20221205000525-20221205030525-00608.warc.gz"
+      },
+      {
+        "urlkey": "au,edu,anu,openresearch-repository)/bitstream/1885/100216/1/01_shearman_forest_conversion_and_2009.pdf",
+        "timestamp": "20221201181847",
+        "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/100216/1/01_Shearman_Forest_Conversion_and_2009.pdf",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "4KZUZKTEPNAFALK5IVQWP3HYRCNKW2S7",
+        "length": "636031",
+        "offset": "467140490",
+        "filename": "crawl-data/CC-MAIN-2022-49/segments/1669446710829.5/warc/CC-MAIN-20221201153700-20221201183700-00593.warc.gz"
+      }
+    ],
+    "count": 7,
+    "present": true,
+    "years": [
+      "2022"
+    ],
+    "error": null
   }
 }

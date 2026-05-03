@@ -2,10 +2,117 @@
   "domain": "vtechworks.lib.vt.edu",
   "index": "CC-MAIN-2023-14",
   "result": {
-    "hits": [],
-    "count": 0,
-    "present": false,
-    "years": [],
-    "error": "dry_run"
+    "hits": [
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/",
+        "timestamp": "20230322072129",
+        "url": "https://vtechworks.lib.vt.edu/",
+        "mime": "text/html",
+        "mime-detected": "text/html",
+        "status": "200",
+        "digest": "W4TNJJNC7I57HQIMJUEJKZNCDIZ6XL6L",
+        "length": "7165",
+        "offset": "719625051",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296943750.71/warc/CC-MAIN-20230322051607-20230322081607-00376.warc.gz",
+        "languages": "eng",
+        "encoding": "UTF-8"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/100019/virulence%20and%20transcriptome%20profile%20of%20multidrug-resistant%20escherichia%20coli%20from%20chicken.pdf?isallowed=y&sequence=2",
+        "timestamp": "20230327160221",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/100019/Virulence%20and%20transcriptome%20profile%20of%20multidrug-resistant%20Escherichia%20coli%20from%20chicken.pdf?sequence=2&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "DCUB4DUKJNQZ5TMPITVDQ7JUGWLP7QDJ",
+        "length": "936719",
+        "offset": "710566899",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296948673.1/warc/CC-MAIN-20230327154814-20230327184814-00042.warc.gz",
+        "truncated": "length"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/100066/us%20hotels%20post%20better%20revpar%20for%20august.pdf?isallowed=y&sequence=1",
+        "timestamp": "20230330092426",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/100066/US%20hotels%20post%20better%20RevPAR%20for%20August.pdf?sequence=1&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "IOU3PPDXUZQSOVKPWBQBUCZBXEOJUOMU",
+        "length": "1034526",
+        "offset": "670505862",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296949107.48/warc/CC-MAIN-20230330070451-20230330100451-00231.warc.gz",
+        "truncated": "length"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/100069/pandemic%20changeing%20how%20brands%20work%20with%20owners%20in%20renos.pdf?isallowed=y&sequence=1",
+        "timestamp": "20230330081455",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/100069/Pandemic%20Changeing%20how%20brands%20work%20with%20owners%20in%20Renos.pdf?sequence=1&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "RVLW4J22XIRWFXGVPF3XC5O2QQVU3RHW",
+        "length": "440141",
+        "offset": "687248329",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296949107.48/warc/CC-MAIN-20230330070451-20230330100451-00535.warc.gz"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/100076/sustainability-12-07801.pdf?isallowed=y&sequence=1",
+        "timestamp": "20230325172329",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/100076/sustainability-12-07801.pdf?sequence=1&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "YF6SI2A7UMTN5HRRMXHXU62NVDIPNTJP",
+        "length": "1033516",
+        "offset": "691433650",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296945368.6/warc/CC-MAIN-20230325161021-20230325191021-00719.warc.gz",
+        "truncated": "length"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/100078/remotesensing-12-03108-v2.pdf?isallowed=y&sequence=1",
+        "timestamp": "20230323185153",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/100078/remotesensing-12-03108-v2.pdf?sequence=1&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "FLK7PETXRJD2JHIUGLGKUVKRBQ6Z2DJ3",
+        "length": "1032555",
+        "offset": "645263739",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296945182.12/warc/CC-MAIN-20230323163125-20230323193125-00162.warc.gz",
+        "truncated": "length"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/100084/animals-10-01611-v2.pdf?isallowed=y&sequence=1",
+        "timestamp": "20230323184210",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/100084/animals-10-01611-v2.pdf?sequence=1&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "O5HD6PKUP2ERPQ56DXMIM6ONJ5754PCI",
+        "length": "1016055",
+        "offset": "649920455",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296945182.12/warc/CC-MAIN-20230323163125-20230323193125-00210.warc.gz",
+        "truncated": "length"
+      },
+      {
+        "urlkey": "edu,vt,lib,vtechworks)/bitstream/handle/10919/100122/jvim.15885.pdf?isallowed=y&sequence=1",
+        "timestamp": "20230401044136",
+        "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/100122/jvim.15885.pdf?sequence=1&isAllowed=y",
+        "mime": "application/pdf",
+        "mime-detected": "application/pdf",
+        "status": "200",
+        "digest": "7KDUBRMYVFLVKWFNO4HDIQJCYLT7RMD2",
+        "length": "915028",
+        "offset": "680734051",
+        "filename": "crawl-data/CC-MAIN-2023-14/segments/1679296949701.0/warc/CC-MAIN-20230401032604-20230401062604-00636.warc.gz",
+        "truncated": "length"
+      }
+    ],
+    "count": 8,
+    "present": true,
+    "years": [
+      "2023"
+    ],
+    "error": null
   }
 }
