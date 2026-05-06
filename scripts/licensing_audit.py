@@ -14,7 +14,6 @@ Usage:
     python licensing_audit.py
     python licensing_audit.py --output results/licensing_gap.csv
 """
-
 import argparse
 import csv
 from pathlib import Path
