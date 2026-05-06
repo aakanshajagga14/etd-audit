@@ -16,7 +16,6 @@ Usage:
 Output:
     results/robots_audit.csv   — per-institution robots.txt findings
 """
-
 import os
 import time
 import requests
