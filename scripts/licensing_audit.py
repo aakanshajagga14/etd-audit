@@ -17,7 +17,6 @@ Usage:
 import argparse
 import csv
 from pathlib import Path
-
 # ---------------------------------------------------------------------------
 # License database
 # Manually compiled from institutional ETD submission pages (Jan 2026).
